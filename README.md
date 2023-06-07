@@ -19,6 +19,7 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 - Exsodia
 - Wizestack
 - SoftMaes
+- SIGERIS DEV
 
 ## My Technologies
 
