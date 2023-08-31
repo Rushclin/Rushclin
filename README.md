@@ -32,3 +32,20 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 ## Contact Me ♥️
 
 - Twitter - [@RushclinTakam](https://twitter.com/RushclinTakam)
+
+
+## Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushclin&theme=dark" alt="Rushclin Takam" /></p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Rushclin&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushclin"></img>
+
+
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Rushclin/count.svg" alt ="Loading">
+
+<br />
