@@ -7,7 +7,7 @@ src="https://img.shields.io/github/followers/Rushclin?logo=github&style=for-the-
 
 # Rushclin Takam ⭕️
 
-Computer science student at @Univ_Dschang 👨‍💻🚧 || web dev front-end with @angular or @reactjs|| mobile dev with @reactnative|| work remote at @wizestack ⭕
+Computer science student at @Univ_Dschang 👨‍💻🚧 || web dev front-end with @angular or @reactJS || NextJS || mobile dev with @reactnative || Flutter, backend with NestJS. Work remote at @wizestack ⭕
 
 ## About Me 🧑‍💻️
 
@@ -23,7 +23,7 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 
 ## My Technologies
 
-- Front-end development : **React, Angular**
+- Front-end development : **React, NextJS, Angular**
 - Backend development : **NestJS, Laravel**
 - Databases **MySql, PostgreSql, Firebase**
 
