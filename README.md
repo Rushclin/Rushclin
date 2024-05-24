@@ -20,12 +20,13 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 - Wizestack
 - SoftMaes
 - SIGERIS DEV
+- ACESY LTD
 
 ## My Technologies
 
 - Front-end development : **React, NextJS, Angular**
-- Backend development : **NestJS, Laravel**
-- Databases **MySql, PostgreSql, Firebase**
+- Backend development : **NestJS, Laravel, Python(Flask, FastAPI)**
+- Databases **MySql, PostgreSql, Firebase, Redis, MongoDB**
 
 **PYTHON LOVER ♥️**
 
