@@ -19,14 +19,15 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 - Africa Systems
 - Exsodia
 - Wizestack
+- Genuka
 - SoftMaes
 - SIGERIS DEV
 - ACESY LTD
 
 ## My Technologies
 
-- Front-end development : **React, NextJS, Angular**
-- Backend development : **NestJS, Laravel, Python(Flask, FastAPI)**
+- Front-end development : **React, Next.js, Angular**
+- Backend development : **Nest.js, Laravel, Python(Flask, FastAPI)**
 - Databases **MySql, PostgreSql, Firebase, Redis, MongoDB**
 
 **PYTHON LOVER ♥️**
