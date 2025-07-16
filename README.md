@@ -8,14 +8,17 @@ src="https://img.shields.io/github/followers/Rushclin?logo=github&style=for-the-
 
 # Rushclin Takam ⭕️
 
-Computer science student at @Univ_Dschang 👨‍💻🚧 || web dev front-end with @angular or @reactJS || NextJS || mobile dev with @reactnative || Flutter, backend with NestJS. Work remote at @wizestack ⭕
+MSc in Computer Science. Passionate about Federated Learning & Urgent Science 🌍
 
 ## About Me 🧑‍💻️
 
-Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang. Cameroon
+Data analyst and developer with training in artificial intelligence, recently graduated from the University of Dschang, Cameroon.
+Throughout my academic journey, I have developed in-depth expertise in data analysis, web and mobile development, and AI. I have also acquired specialized knowledge in technologies such as NestJS, NextJS, Python, Docker, Kafka, and more.
+Having proven my skills in web development while working for several companies, I now aspire to pursue a career in research—particularly in urgents sciences—to contribute innovative computing solutions to the field.
 
 ## Works
 
+- Novalitix
 - Africa Systems
 - Exsodia
 - Wizestack
@@ -29,6 +32,7 @@ Hi, I am Rushclin Takam, Junior Front-End and Mobile Developer based in Dschang.
 - Front-end development : **React, Next.js, Angular**
 - Backend development : **Nest.js, Laravel, Python(Flask, FastAPI)**
 - Databases **MySql, PostgreSql, Firebase, Redis, MongoDB**
+- AI : **Tensorflow, PyTorch**
 
 **PYTHON LOVER ♥️**
 
