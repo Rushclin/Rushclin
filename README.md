@@ -31,13 +31,18 @@ Having proven my skills in web development while working for several companies, 
 
 - Front-end development : **React, Next.js, Angular**
 - Backend development : **Nest.js, Laravel, Python(Flask, FastAPI)**
-- Databases **MySql, PostgreSql, Firebase, Redis, MongoDB**
-- AI : **Tensorflow, PyTorch**
+- Databases **MySQL, PostgreSQL, Redix, InfluxDB, MongoDB, Firebase.**
+- AI : **Tensorflow, PyTorch, Opacus, Flower, Scikit-learn**
+- Tools : **Docker, Docker Compose, k8s, Git, GitHub, GitLab, Trello.**,
+- Operating Systems : **Windows, Ubuntu, Linux, Debian.**,
+- Environments : **Google Collaboration, Anaconda, Kaggle, Jupyter Notebook, JupyterLab**
 
-**PYTHON LOVER ♥️**
+**Love opensource, love build, love share ♥️**
 
 ## Contact Me ♥️
 
 - Twitter - [@RushclinTakam](https://twitter.com/RushclinTakam)
+- LinkedIn - [Rushclin Takam](https://www.linkedin.com/in/rushclin-takam/)
+- Email - [Takam Rushclin](takamrushclin@gmail.com)
 
 <br />
